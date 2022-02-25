@@ -7,11 +7,11 @@ to install use :
 pip install locust
 ```
 
-to run wirte your test code on locustfile.py and run :
+to run write your test code on locustfile.py and run :
 ```
 locust
 ```
-or 
+or
 
 ```
 locust -f locustfile.py
@@ -20,4 +20,4 @@ locust will be lunched on url:
 ```
 http://0.0.0.0:8089/
 ```
-Check the repo to find the test code or check their offical page for more information https://locust.io/  and docs on http://docs.locust.io/en/stable/
+Check the repo to find the test code or check their official page for more information https://locust.io/  and docs on http://docs.locust.io/en/stable/
